@@ -1,0 +1,141 @@
+10
+
+dir
+42
+svn://svnserv/users/trunk/silee/boost_book_ex/Boost.C++.Application/Chapter01
+svn://svnserv/users
+
+
+
+2014-08-22T05:26:24.265409Z
+42
+cwson
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+590dfa31-ade0-4a28-b3dd-37c3bf22cdee
+
+array
+dir
+
+noncopyable_movable
+dir
+
+variant_db_example
+dir
+
+Chapter01.pro
+file
+
+
+
+
+2013-06-19T08:58:38.000000Z
+e326eaae5957661310ef4d543f9041b7
+2014-08-22T05:26:24.265409Z
+42
+cwson
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+327
+
+any
+dir
+
+tuple
+dir
+
+bind_values
+dir
+
+move_c++11
+dir
+
+program_options_short
+dir
+
+bind_placeholders
+dir
+
+variant
+dir
+
+move
+dir
+
+any_db_example
+dir
+
+noncopyable_movable_c++11
+dir
+
+noncopyable
+dir
+
+program_options_base
+dir
+
+Makefile
+file
+
+
+
+
+2014-08-22T05:24:21.858262Z
+faa175968544557f9c9e4eee73a814de
+2014-08-22T05:26:24.265409Z
+42
+cwson
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+56057
+

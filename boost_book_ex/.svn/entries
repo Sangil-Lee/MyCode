@@ -1,0 +1,79 @@
+10
+
+dir
+41
+svn://svnserv/users/trunk/silee/boost_book_ex
+svn://svnserv/users
+
+
+
+2014-08-22T05:02:23.351727Z
+41
+cwson
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+590dfa31-ade0-4a28-b3dd-37c3bf22cdee
+
+chap-15-errorhandling
+dir
+
+chap-6-multithreading
+dir
+
+Boost.C++.Application
+dir
+
+chap-13-containers
+dir
+
+chap-4-eventhandling
+dir
+
+chap-9-filesystem
+dir
+
+chap-11-serialization
+dir
+
+chap-3-functionobjects
+dir
+
+chap-7-asio
+dir
+
+chap-14-datastructures
+dir
+
+chap-17-utilities
+dir
+
+chap-2-smartpointers
+dir
+
+chap-10-datetime
+dir
+
+chap-8-interprocesscommunication
+dir
+
+chap-12-parser
+dir
+
+chap-16-castoperators
+dir
+
+chap-5-stringhandling
+dir
+
