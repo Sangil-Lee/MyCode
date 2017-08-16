@@ -7,6 +7,8 @@
 #include <cstring>
 #include <cmath>
 
+//g++ -o closet_key valid_range.cpp 
+
 using namespace std;
 
 double rounding( double x, int digit )
