@@ -1,0 +1,291 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<config name="Accelerator">
+  <component name="Group">
+    <pv name="ctrlslab:A_Alarm_1">
+      <descirption>ctrlslab:A_Alarm_1</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:A_Alarm_2">
+      <descirption>ctrlslab:A_Alarm_2</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:A_Alarm_3">
+      <descirption>ctrlslab:A_Alarm_3</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:A_Alarm_4">
+      <descirption>ctrlslab:A_Alarm_4</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:A_Alarm_5">
+      <descirption>ctrlslab:A_Alarm_5</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:A_Alarm_6">
+      <descirption>ctrlslab:A_Alarm_6</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:A_Alarm_7">
+      <descirption>ctrlslab:A_Alarm_7</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+  </component>
+  <component name="Group_1">
+    <pv name="ctrlslab:A_Alarm_8">
+      <descirption>ctrlslab:A_Alarm_8</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:A_Alarm_9">
+      <descirption>ctrlslab:A_Alarm_9</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:A_Alarm_10">
+      <descirption>ctrlslab:A_Alarm_10</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:A_Alarm_11">
+      <descirption>ctrlslab:A_Alarm_11</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:A_Alarm_12">
+      <descirption>ctrlslab:A_Alarm_12</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:A_Alarm_13">
+      <descirption>ctrlslab:A_Alarm_13</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:A_Alarm_14">
+      <descirption>ctrlslab:A_Alarm_14</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+  </component>
+  <component name="Group_2">
+    <pv name="ctrlslab:A_Alarm_15">
+      <descirption>ctrlslab:A_Alarm_15</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:A_Alarm_16">
+      <descirption>ctrlslab:A_Alarm_16</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:A_Alarm_17">
+      <descirption>ctrlslab:A_Alarm_17</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:A_Alarm_18">
+      <descirption>ctrlslab:A_Alarm_18</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:A_Alarm_19">
+      <descirption>ctrlslab:A_Alarm_19</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:A_Alarm_20">
+      <descirption>ctrlslab:A_Alarm_20</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:A_Alarm_21">
+      <descirption>ctrlslab:A_Alarm_21</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:A_Alarm_22">
+      <descirption>ctrlslab:A_Alarm_22</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+  </component>
+  <component name="Group_3">
+    <pv name="ctrlslab:A_Alarm_23">
+      <descirption>ctrlslab:A_Alarm_23</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:A_Alarm_24">
+      <descirption>ctrlslab:A_Alarm_24</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:A_Alarm_25">
+      <descirption>ctrlslab:A_Alarm_25</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:A_Alarm_26">
+      <descirption>ctrlslab:A_Alarm_26</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:A_Alarm_27">
+      <descirption>ctrlslab:A_Alarm_27</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:A_Alarm_28">
+      <descirption>ctrlslab:A_Alarm_28</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:A_Alarm_29">
+      <descirption>ctrlslab:A_Alarm_29</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:A_Alarm_30">
+      <descirption>ctrlslab:A_Alarm_30</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+  </component>
+  <component name="Group_4">
+    <pv name="ctrlslab:A_Alarm_100">
+      <descirption>ctrlslab:A_Alarm_100</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:A_Alarm_101">
+      <descirption>ctrlslab:A_Alarm_101</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:A_Alarm_102">
+      <descirption>ctrlslab:A_Alarm_102</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:A_Alarm_103">
+      <descirption>ctrlslab:A_Alarm_103</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:A_Alarm_104">
+      <descirption>ctrlslab:A_Alarm_104</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:A_Alarm_105">
+      <descirption>ctrlslab:A_Alarm_105</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:A_Alarm_106">
+      <descirption>ctrlslab:A_Alarm_106</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:A_Alarm_107">
+      <descirption>ctrlslab:A_Alarm_107</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:A_Alarm_108">
+      <descirption>ctrlslab:A_Alarm_108</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:A_Alarm_109">
+      <descirption>ctrlslab:A_Alarm_109</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+  </component>
+  <component name="Group_5">
+    <pv name="ctrlslab:A_Alarm_110">
+      <descirption>ctrlslab:A_Alarm_110</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:A_Alarm">
+      <descirption>ctrlslab:A_Alarm</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:Temp">
+      <descirption>ctrlslab:Temp</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:Control">
+      <descirption>ctrlslab:Control</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:D_Alarm">
+      <descirption>ctrlslab:D_Alarm</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+    <pv name="ctrlslab:A_Alarm_Filter">
+      <descirption>ctrlslab:A_Alarm_Filter</descirption>
+      <enabled>true</enabled>
+      <latching>false</latching>
+      <annunciating>false</annunciating>
+    </pv>
+  </component>
+</config>
